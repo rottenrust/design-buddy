@@ -1,6 +1,6 @@
 [project]
 name = "design-buddy"
-version = "0.1.0"
+version = "0.2.0"
 description = "Open-source Telegram UX/UI mentor MVP"
 requires-python = ">=3.12"
 dependencies = [
@@ -33,4 +33,3 @@ target-version = "py312"
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
 testpaths = ["tests"]
-
