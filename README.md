@@ -1,6 +1,6 @@
 # Design Buddy
 
-[![Release](https://img.shields.io/github/v/release/rottenrust/design-buddy?display_name=tag&sort=semver)](https://github.com/rottenrust/design-buddy/releases)
+[![Version](https://img.shields.io/github/v/tag/rottenrust/design-buddy?sort=semver)](https://github.com/rottenrust/design-buddy/releases)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/status-MVP-orange)
 [![License](https://img.shields.io/github/license/rottenrust/design-buddy)](LICENSE)
